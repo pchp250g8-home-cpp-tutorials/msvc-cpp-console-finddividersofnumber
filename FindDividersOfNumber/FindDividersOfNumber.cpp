@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-int main()
+int main(int argc, char* argv[])
 {
     unsigned long ulNumber;
     std::cout << "Input an integer positive number\r\n";
@@ -17,6 +17,7 @@ int main()
     std::cout << "\r\n";
     std::cin.ignore();
     std::cin.get();
+    return 0;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
