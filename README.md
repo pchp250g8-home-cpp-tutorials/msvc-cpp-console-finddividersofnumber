@@ -1,6 +1,16 @@
 FindDividersOfNumber. C++ Tutorials. Microsoft Visual Studio IDE. Simple Input/Output. Algorithms. Windows Platform. Console Application.
 
-A console application in the C++ programming language. The program does the following:
+A console application in the C++ programming language. 
+The program does the following:
+1. Asks the user to enter a positive integer.
+2. The message displayed is: "The number has the following divisors:"
+3. The loop with the parameter is executed:
+    1. The initial value of the parameter is set to 1, and the final value is set to the number entered from the keyboard.
+    2. A series of loops is executed, where the remainder from dividing the number entered from the keyboard by the loop variable-parameter is calculated.
+    3. If the remainder is zero, the value of the loop parameter is displayed on the screen.
+    4. The value of the loop parameter is compared with the final value. If it is less, the loop is executed. Otherwise, it terminates.
+    5. The loop parameter variable is incremented by the loop increment. In this example, it is 1.
+4. The program waits for the "Enter" key to be pressed before terminating.
 
 Developed in the Microsoft Visual Studio integrated environment.
 
