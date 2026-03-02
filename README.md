@@ -3,3 +3,7 @@ FindDividersOfNumber. C++ Tutorials. Microsoft Visual Studio IDE. Simple Input/O
 A console application in the C++ programming language. The program does the following:
 
 Developed in the Microsoft Visual Studio integrated environment.
+
+FindDividersOfNumber. ИС Visual Studio. Занятия по C++. Простой Ввод/Вывод. Алгоритмы. Платформа Windows. Консольное приложение.
+
+Консольное приложение написанное на языке программирования C++. Программа делает следующее:
