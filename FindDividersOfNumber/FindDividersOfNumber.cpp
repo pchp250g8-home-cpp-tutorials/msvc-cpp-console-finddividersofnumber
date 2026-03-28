@@ -8,7 +8,7 @@ int main(int argc, char* argv[])
     unsigned long ulNumber;
     std::cout << "Input an integer positive number\r\n";
     std::cin >> ulNumber;
-    std::cout << "The number " << ulNumber << " has the folowing dividers:\r\n";
+    std::cout << "The number " << ulNumber << " has the folowing divisors:\r\n";
     for (unsigned long i = 1; i <= ulNumber; i++)
     {
         if (ulNumber % i == 0)

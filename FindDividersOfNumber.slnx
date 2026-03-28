@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="FindDividersOfNumber/FindDividersOfNumber.vcxproj" />
+  <Project Path="FindDividersOfNumber/FindDividersOfNumber.vcxproj" Id="738584d2-39e3-4c82-a503-4b27e733e0f9" />
 </Solution>
